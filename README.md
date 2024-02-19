@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Check the live site - https://movieebuzz.netlify.app
+
+- A movie website using API, search filter provides the poster of movies based on searched name, clicking on the poster show some info of that movie
