@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 Check the live site - https://movieebuzz.netlify.app
 
-- A movie website using API, search filter provides the poster of movies based on searched name, clicking on the poster show some info of that movie.
+- A movie website utilizing an API, where the search filter provides posters of movies based on the searched name. Clicking on the poster displays some information about that movie.
